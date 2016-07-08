@@ -22,6 +22,7 @@ public class DeclarativeServiceImpl implements DeclarativeService {
 
 	protected  void activate(){
 		System.out.println("Welcome to activate");
+		System.out.println("Welcome to activate command");
 		System.out.println("Bundle Activated");
 		BundleContext ctx = FrameworkUtil.getBundle(this.getClass()).getBundleContext();
 		ServiceReference<SimpleService>serviceref = null;
