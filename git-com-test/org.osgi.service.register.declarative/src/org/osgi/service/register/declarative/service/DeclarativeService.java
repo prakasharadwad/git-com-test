@@ -3,6 +3,7 @@ package org.osgi.service.register.declarative.service;
 //now you start your journey from ground
 //make any changes to round up
 //come to point
+//next one
 public interface DeclarativeService {
 	
 	public void declarativeService();
