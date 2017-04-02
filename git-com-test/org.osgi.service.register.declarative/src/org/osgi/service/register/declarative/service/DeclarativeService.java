@@ -4,6 +4,7 @@ package org.osgi.service.register.declarative.service;
 //make any changes to round up
 //come to point
 //next one
+//nest 2
 public interface DeclarativeService {
 	
 	public void declarativeService();
