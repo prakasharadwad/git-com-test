@@ -5,6 +5,7 @@ package org.osgi.service.register.declarative.service;
 //come to point
 //next one
 //nest 2
+//changes in one
 public interface DeclarativeService {
 	
 	public void declarativeService();
